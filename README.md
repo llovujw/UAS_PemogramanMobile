@@ -9,3 +9,6 @@
 | **Mata Kuliah** | Pemograman Mobile |
 
 ### STORYBOARD, MOCK UP & UI/UX
+![1](Calc/1.png)
+![2](Calc/2.png)
+![3](Calc/3.jpg)
